@@ -1,0 +1,48 @@
+# ===============================
+# PYTHON & FLASK IGNORE RULES
+# ===============================
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Flask instance folder (runtime database, etc.)
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# System & editor folders
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Secret environment files
+.env
+.env.local
+.env.production
+.env.test
+
+# Sensitive / personal files
+users.json
+new_university_data.csv
+
+# Optional data folder (if you store any local training/test data)
+data/
+!data/.keep
+
+# Model checkpoints (if large versions appear later)
+*.h5
+*.pt
+*.ckpt
+
+# OS junk
+Thumbs.db
