@@ -45,7 +45,9 @@ university-recommender-system/
 ├── future_prediction.py # Gemini-based career suggestion module
 
 ├── final_model.pkl # Trained ML model
+
 │
+
 ├── requirements.txt
 
 ├── .gitignore
