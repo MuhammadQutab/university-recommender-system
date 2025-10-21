@@ -65,3 +65,11 @@ university_rec/
 ├── pycache/ # Cached files (ignored)
 └── .venv/ # Virtual environment (ignored) 
 
+
+## 📂 Screen Shots: 
+
+
+<img width="1002" height="668" alt="Screenshot 2025-10-22 023327" src="https://github.com/user-attachments/assets/859b41cd-d222-4bf7-8ae2-1bdd2136b1be" /> 
+
+<img width="1483" height="686" alt="Screenshot 2025-10-22 023342" src="https://github.com/user-attachments/assets/4d354f88-fbc6-4ad7-8dff-7d0480ef52f0" />
+
