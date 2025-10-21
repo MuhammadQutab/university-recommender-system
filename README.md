@@ -36,33 +36,57 @@ It combines a trained **scikit-learn model** with **Gemini AI** to generate prac
 
 ## 📂 Project Structure 
 
-university_rec/
+university-recommender-system/
+
 │
+
 ├── app.py # Main Flask application
+
 ├── future_prediction.py # Gemini-based career suggestion module
+
 ├── final_model.pkl # Trained ML model
 │
 ├── requirements.txt
+
 ├── .gitignore
+
 ├── .env.example
+
 ├── README.md
+
 │
+
 ├── templates/ # HTML templates
+
 │ ├── index.html
+
 │ ├── login.html
+
 │ ├── signup.html
+
 │ └── dashboard.html
+
 │
 ├── static/ # CSS / JS / Images
+
 │ └── style.css
+
 │
+
 ├── migrations/ # Database migrations (Flask-Migrate)
+
 ├── assets/ # Screenshots for GitHub
+
 │ ├── home.png
+
 │ └── results.png
+
 │
+
 ├── instance/ # Local runtime database (ignored)
+
 ├── pycache/ # Cached files (ignored)
+
 └── .venv/ # Virtual environment (ignored) 
 
 
