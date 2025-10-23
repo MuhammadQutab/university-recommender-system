@@ -20,6 +20,12 @@ It combines a trained **scikit-learn model** with **Gemini AI** to generate prac
 3. The ML model predicts the **most suitable university**.
 4. Gemini AI suggests **three future career options** based on the selected department.
 
+
+### Demo Link, LinkedIn:
+
+
+https://www.linkedin.com/posts/muhammadqutab03_flask-machinelearning-generativeai-activity-7386554628060102656-g4DL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDX9coBoMdRTqxs5ojMW8ScnBWaDJMcSkc
+
 ---
 
 ## 🧱 Tech Stack
